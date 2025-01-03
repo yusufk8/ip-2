@@ -7,4 +7,6 @@ Girdiğimiz her bir tasarım sekmesinde o alandaki tasarımcıların bilgileri v
 tasarımcının daha detaylı bilgileri bulunuyor ve sağ tarafta sipariş oluşturma formu bulunuyor. Burada oluşturduğumuz siparişler orders tablosuna kaydediliyor. Sayfanın sağ üstünde giriş yapma kısmı bulunuyor daha önce 
 kayıt olunmamışsa öncelikle kullanıcı buradan kayıt oluşturuyor. Bu kayıtlar veritabanında tutulup daha sonra giriş yapılabiliyor. Ayrıca sitenin bazı işlemler için  kullanıcıdan önce giriş yapmasını istediği bir sistem var. 
 Örneğin hizmetlerimiz kısmına da bir iş yaptırmak isteniyorsa önce giriş yapılması gerekiyor. Onun dışında kullanıcıların tasarımcılara mesaj gönderebildiği bir sistem var. Giriş yaptıktan sonra profil kısmına tıklayıp bu mesajlaşma
-kısmına erişilebiliyor. Aynı şekilde profil kısmına tıklayıp çıkış yapılabiliyor.
+kısmına erişilebiliyor. Aynı şekilde profil kısmına tıklayıp çıkış yapılabiliyor. Ayrıca projemde seeders kullanmadım doldurulması gereken tabloları SQL Serverda kendi elimle doldurdum.
+Yusuf Furkan Kartal
+230928078
